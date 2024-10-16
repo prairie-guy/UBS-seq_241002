@@ -1,29 +1,29 @@
 SampleID,Std,FullID,Content,Sequence
-ST,R1,ST_R1,Control,data/24DZ-ST_S00_R1_001.fastq.gz
-ST,R2,ST_R2,Control,data/24DZ-ST_S00_R2_001.fastq.gz
-A1,R1,A1_R1,"55C 60 mins, method A",data/24DZ-A1_S00_R1_001.fastq.gz
-A1,R2,A1_R2,"55C 60 mins, method A",data/24DZ-A1_S00_R2_001.fastq.gz
-A2,R2,A2_R2,"50C 90 mins, method A",data/24DZ-A2_S00_R2_001.fastq.gz
-A2,R1,A2_R1,"50C 90 mins, method A",data/24DZ-A2_S00_R1_001.fastq.gz
-A3,R2,A3_R2,"50C 120 mins, method A",data/24DZ-A3_S00_R2_001.fastq.gz
-A3,R1,A3_R1,"50C 120 mins, method A",data/24DZ-A3_S00_R1_001.fastq.gz
-A4,R2,A4_R2,"45C 4 hrs, method A",data/24DZ-A4_S00_R2_001.fastq.gz
-A4,R1,A4_R1,"45C 4 hrs, method A",data/24DZ-A4_S00_R1_001.fastq.gz
-B1,R2,B1_R2,"55C 60 mins, method B",data/24DZ-B1_S00_R2_001.fastq.gz
-B1,R1,B1_R1,"55C 60 mins, method B",data/24DZ-B1_S00_R1_001.fastq.gz
-B2,R2,B2_R2,"50C 90 mins, method B",data/24DZ-B2_S00_R2_001.fastq.gz
-B2,R1,B2_R1,"50C 90 mins, method B",data/24DZ-B2_S00_R1_001.fastq.gz
-B3,R2,B3_R2,"50C 120 mins, method B",data/24DZ-B3_S00_R2_001.fastq.gz
-B3,R1,B3_R1,"50C 120 mins, method B",data/24DZ-B3_S00_R1_001.fastq.gz
-B4,R1,B4_R1,"45C 4 hrs, method B",data/24DZ-B4_S00_R1_001.fastq.gz
-B4,R2,B4_R2,"45C 4 hrs, method B",data/24DZ-B4_S00_R2_001.fastq.gz
-B7,R1,B7_R1,"37C 8 hrs, method B",data/24DZ-B7_S00_R1_001.fastq.gz
-B7,R2,B7_R2,"37C 8 hrs, method B",data/24DZ-B7_S00_R2_001.fastq.gz
-B8,R1,B8_R1,"40C 16 hrs, method B",data/24DZ-B8_S00_R1_001.fastq.gz
-B8,R2,B8_R2,"40C 16 hrs, method B",data/24DZ-B8_S00_R2_001.fastq.gz
-B9,R2,B9_R2,"37C 16 hrs, method B",data/24DZ-B9_S00_R2_001.fastq.gz
-B9,R1,B9_R1,"37C 16 hrs, method B",data/24DZ-B9_S00_R1_001.fastq.gz
-B10,R1,B10_R1,"30C 16 hrs, method B",data/24DZ-B10_S00_R1_001.fastq.gz
-B10,R2,B10_R2,"30C 16 hrs, method B",data/24DZ-B10_S00_R2_001.fastq.gz
-B11,R1,B11_R1,"25C 16 hrs, method B",data/24DZ-B11_S00_R1_001.fastq.gz
-B11,R2,B11_R2,"25C 16 hrs, method B",data/24DZ-B11_S00_R2_001.fastq.gz
+ST,R1,ST_R1,Control,data/24DZ-ST_S00_R1_001.fq.gz
+ST,R2,ST_R2,Control,data/24DZ-ST_S00_R2_001.fq.gz
+A1,R1,A1_R1,55C 60m A,data/24DZ-A1_S00_R1_001.fq.gz
+A1,R2,A1_R2,55C 60m A,data/24DZ-A1_S00_R2_001.fq.gz
+A2,R2,A2_R2,50C 90m A,data/24DZ-A2_S00_R2_001.fq.gz
+A2,R1,A2_R1,50C 90m A,data/24DZ-A2_S00_R1_001.fq.gz
+A3,R1,A3_R1,50C 120m A,data/24DZ-A3_S00_R1_001.fq.gz
+A3,R2,A3_R2,50C 120m A,data/24DZ-A3_S00_R2_001.fq.gz
+A4,R1,A4_R1,45C 4h A,data/24DZ-A4_S00_R1_001.fq.gz
+A4,R2,A4_R2,45C 4h A,data/24DZ-A4_S00_R2_001.fq.gz
+B1,R1,B1_R1,55C 60m B,data/24DZ-B1_S00_R1_001.fq.gz
+B1,R2,B1_R2,55C 60m B,data/24DZ-B1_S00_R2_001.fq.gz
+B2,R2,B2_R2,50C 90m B,data/24DZ-B2_S00_R2_001.fq.gz
+B2,R1,B2_R1,50C 90m B,data/24DZ-B2_S00_R1_001.fq.gz
+B3,R2,B3_R2,50C 120m B,data/24DZ-B3_S00_R2_001.fq.gz
+B3,R1,B3_R1,50C 120m B,data/24DZ-B3_S00_R1_001.fq.gz
+B4,R2,B4_R2,45C 4h B,data/24DZ-B4_S00_R2_001.fq.gz
+B4,R1,B4_R1,45C 4h B,data/24DZ-B4_S00_R1_001.fq.gz
+B7,R2,B7_R2,37C 8h B,data/24DZ-B7_S00_R2_001.fq.gz
+B7,R1,B7_R1,37C 8h B,data/24DZ-B7_S00_R1_001.fq.gz
+B8,R2,B8_R2,40C 16h B,data/24DZ-B8_S00_R2_001.fq.gz
+B8,R1,B8_R1,40C 16h B,data/24DZ-B8_S00_R1_001.fq.gz
+B9,R1,B9_R1,37C 16h B,data/24DZ-B9_S00_R1_001.fq.gz
+B9,R2,B9_R2,37C 16h B,data/24DZ-B9_S00_R2_001.fq.gz
+B10,R2,B10_R2,30C 16h B,data/24DZ-B10_S00_R2_001.fq.gz
+B10,R1,B10_R1,30C 16h B,data/24DZ-B10_S00_R1_001.fq.gz
+B11,R1,B11_R1,25C 16h B,data/24DZ-B11_S00_R1_001.fq.gz
+B11,R2,B11_R2,25C 16h B,data/24DZ-B11_S00_R2_001.fq.gz

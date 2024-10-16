@@ -1,5 +1,5 @@
-## Project: Low temperature UMBS optimization 
-#### Investigator: Tanner Baldwin
+## Project: Low Temperature UMBS Optimization 
+#### Investigator: Yushuai Liu
 #### Analysis: C. Bryan Daniels
 #### Sequencing: Chang Ye
 #### Supervisor: Qing Dai
