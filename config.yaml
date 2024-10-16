@@ -1,0 +1,20 @@
+
+
+reference:
+  200merMeth:
+    fa: reference/fasta/200merMeth.fa
+    hisat3n: reference/hisat3n/200merMeth/200merMeth
+    meth: reference/meth/200merMeth.meth
+  5mC164:
+    fa: reference/fasta/5mC164.fa
+    hisat3n: reference/hisat3n/5mC164/5mC164
+    meth: reference/meth/5mC164.meth
+  lambda:
+    fa: reference/fasta/lambda.fa
+    hisat3n: reference/hisat3n/lambda/lambda
+    meth: reference/meth/lambda.meth
+  pUC19:
+    fa: reference/fasta/pUC19.fa
+    hisat3n: reference/hisat3n/pUC19/pUC19
+    meth: reference/meth/pUC19.meth
+

@@ -1,0 +1,37 @@
+SampleID,Std,FullID,Content,Sequence
+ST,R1,ST_R1,Control,data/24DZ-ST_S181_R1_001.fq.gz
+ST,R2,ST_R2,Control,data/24DZ-ST_S181_R2_001.fq.gz
+EA,R2,EA_R2,EM; 4.5hrs; Varied,data/24DZ-EA_S182_R2_001.fq.gz
+EA,R1,EA_R1,EM; 4.5hrs; Varied,data/24DZ-EA_S182_R1_001.fq.gz
+EB,R2,EB_R2,EM; 4.5hrs; Varied,data/24DZ-EB_S183_R2_001.fq.gz
+EB,R1,EB_R1,EM; 4.5hrs; Varied,data/24DZ-EB_S183_R1_001.fq.gz
+EC,R1,EC_R1,EM; 4.5hrs; Varied,data/24DZ-EC_S184_R1_001.fq.gz
+EC,R2,EC_R2,EM; 4.5hrs; Varied,data/24DZ-EC_S184_R2_001.fq.gz
+ZA,R2,ZA_R2,ZY; 10min/2.5hr; 98/64C,data/24DZ-ZA_S185_R2_001.fq.gz
+ZA,R1,ZA_R1,ZY; 10min/2.5hr; 98/64C,data/24DZ-ZA_S185_R1_001.fq.gz
+ZB,R1,ZB_R1,ZY; 10min/2.5hr; 98/64C,data/24DZ-ZB_S186_R1_001.fq.gz
+ZB,R2,ZB_R2,ZY; 10min/2.5hr; 98/64C,data/24DZ-ZB_S186_R2_001.fq.gz
+ZC,R1,ZC_R1,ZY; 10min/2.5hr; 98/64C,data/24DZ-ZC_S187_R1_001.fq.gz
+ZC,R2,ZC_R2,ZY; 10min/2.5hr; 98/64C,data/24DZ-ZC_S187_R2_001.fq.gz
+5A,R1,5A_R1,R8-4; 90min; 55C,data/24DZ-5A_S188_R1_001.fq.gz
+5A,R2,5A_R2,R8-4; 90min; 55C,data/24DZ-5A_S188_R2_001.fq.gz
+5B,R1,5B_R1,R8-4; 90min; 55C,data/24DZ-5B_S189_R1_001.fq.gz
+5B,R2,5B_R2,R8-4; 90min; 55C,data/24DZ-5B_S189_R2_001.fq.gz
+5C,R1,5C_R1,R8-4; 90min; 55C,data/24DZ-5C_S190_R1_001.fq.gz
+5C,R2,5C_R2,R8-4; 90min; 55C,data/24DZ-5C_S190_R2_001.fq.gz
+5DA,R2,5DA_R2,R8-4; 90min; 55C,data/24DZ-5DA_S191_R2_001.fq.gz
+5DA,R1,5DA_R1,R8-4; 90min; 55C,data/24DZ-5DA_S191_R1_001.fq.gz
+5DB,R1,5DB_R1,R8-4; 90min; 55C,data/24DZ-5DB_S192_R1_001.fq.gz
+5DB,R2,5DB_R2,R8-4; 90min; 55C,data/24DZ-5DB_S192_R2_001.fq.gz
+5DC,R2,5DC_R2,R8-4; 90min; 55C,data/24DZ-5DC_S193_R2_001.fq.gz
+5DC,R1,5DC_R1,R8-4; 90min; 55C,data/24DZ-5DC_S193_R1_001.fq.gz
+7A,R1,7A_R1,R8-4; 20min; 75C,data/24DZ-7A_S194_R1_001.fq.gz
+7A,R2,7A_R2,R8-4; 20min; 75C,data/24DZ-7A_S194_R2_001.fq.gz
+7B,R1,7B_R1,R8-4; 20min; 75C,data/24DZ-7B_S195_R1_001.fq.gz
+7B,R2,7B_R2,R8-4; 20min; 75C,data/24DZ-7B_S195_R2_001.fq.gz
+7C,R2,7C_R2,R8-4; 20min; 75C,data/24DZ-7C_S196_R2_001.fq.gz
+7C,R1,7C_R1,R8-4; 20min; 75C,data/24DZ-7C_S196_R1_001.fq.gz
+7DA,R2,7DA_R2,R8-4; 20min; 75C,data/24DZ-7DA_S197_R2_001.fq.gz
+7DA,R1,7DA_R1,R8-4; 20min; 75C,data/24DZ-7DA_S197_R1_001.fq.gz
+7DB,R2,7DB_R2,R8-4; 20min; 75C,data/24DZ-7DB_S198_R2_001.fq.gz
+7DB,R1,7DB_R1,R8-4; 20min; 75C,data/24DZ-7DB_S198_R1_001.fq.gz

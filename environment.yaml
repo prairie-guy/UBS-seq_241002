@@ -1,0 +1,32 @@
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python
+  - nbconvert
+  - ipython
+  - jupyterlab
+  - numpy
+  - pandas
+  - cutadapt
+  - multiqc
+  - star
+  - umi_tools
+  - snakemake
+  - pandoc
+  - wget
+  - seqkit
+  - parallel
+  - bwa
+  - bowtie2
+  - bedtools
+  - samtools
+  - seqtk
+  - hisat2
+  - fastqc
+  - fastp
+  - ncbi-datasets-cli
+  - umicollapse
+  - searborn
+  - logomaker
