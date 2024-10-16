@@ -1,19 +1,15 @@
-SampleID,Recipe ID,Time,Temperature,Content,qPCR,PCR,Index,Qubit
-ST,Control,,,Control,8.6,9,B12,3.44
-EA,EM,4.5hrs,Varied,EM; 4.5hrs; Varied,9.7,9,C12,2.82
-EB,EM,4.5hrs,Varied,EM; 4.5hrs; Varied,14.5,16,D12,10.2
-EC,EM,4.5hrs,Varied,EM; 4.5hrs; Varied,18.4,16*,E12,2.16
-ZA,ZY,10min/2.5hr,98/64C,ZY; 10min/2.5hr; 98/64C,8.8,9,F12,2.98
-ZB,ZY,10min/2.5hr,98/64C,ZY; 10min/2.5hr; 98/64C,12.5,13,G12,3.8
-ZC,ZY,10min/2.5hr,98/64C,ZY; 10min/2.5hr; 98/64C,16.2,16*,H12,4.54
-5A,R8-4,90min,55C,R8-4; 90min; 55C,8.4,9,C11,3.5
-5B,R8-4,90min,55C,R8-4; 90min; 55C,12.5,13,D11,3.9
-5C,R8-4,90min,55C,R8-4; 90min; 55C,15.3,16,E11,5.18
-5DA,R8-4,90min,55C,R8-4; 90min; 55C,9.3,9,F11,1.99
-5DB,R8-4,90min,55C,R8-4; 90min; 55C,12.2,13,G11,3.42
-5DC,R8-4,90min,55C,R8-4; 90min; 55C,15,16,H11,2.66
-7A,R8-4,20min,75C,R8-4; 20min; 75C,9,9,C10,3.7
-7B,R8-4,20min,75C,R8-4; 20min; 75C,12.8,13,D10,3.42
-7C,R8-4,20min,75C,R8-4; 20min; 75C,17.2,16*,E10,3.16
-7DA,R8-4,20min,75C,R8-4; 20min; 75C,10.4,13,F10,6.38
-7DB,R8-4,20min,75C,R8-4; 20min; 75C,13,13,G10,1.56
+﻿SampleID,Content,qPCR,Qubit,QC,i7,Index,Recipe
+ST,Control,10.4,5.02,1.43,ATCACG,1,"2 ng ligated DNA,  Denaturation but without BS treatment"
+A1,"55C 60 mins, method A",12.1,7.46,1.91,CGATGT,2,"2 ng ligated DNA, BS + DNA protect buffer, 55C 60 mins, method A"
+A2,"50C 90 mins, method A",15.1,8.58,2.12,TGACCA,4,"2 ng ligated DNA, BS + DNA protect buffer, 50C 90 mins, method A"
+A3,"50C 120 mins, method A",8.6,8.34,2.18,ACAGTG,5,"2 ng ligated DNA, BS + DNA protect buffer, 50C 120 mins, method A"
+A4,"45C 4 hrs, method A",12,8.26,2.18,GCCAAT,6,"2 ng ligated DNA, BS + DNA protect buffer, 45C 4 hrs, method A"
+B1,"55C 60 mins, method B",15.3,13.3,3.41,CAGATC,7,"2 ng ligated DNA, BS + DNA protect buffer, 55C 60 mins, method B"
+B2,"50C 90 mins, method B",9,12.3,2.73,ACTTGA,8,"2 ng ligated DNA, BS + DNA protect buffer, 50C 90 mins, method B"
+B3,"50C 120 mins, method B",12.2,14.7,3.83,GATCAG,9,"2 ng ligated DNA, BS + DNA protect buffer, 50C 120 mins, method B"
+B4,"45C 4 hrs, method B",15.6,7.64,1.83,TAGCTT,10,"2 ng ligated DNA, BS + DNA protect buffer, 45C 4 hrs, method B"
+B7,"37C 8 hrs, method B",9.7,8.5,2.09,GGCTAC,11,"2 ng ligated DNA, BS + DNA protect buffer, 37C 8 hrs, method B"
+B8,"40C 16 hrs, method B",12,6.12,1.47,CTTGTA,12,"2 ng ligated DNA, BS + DNA protect buffer, 40C 16 hrs, method B"
+B9,"37C 16 hrs, method B",17,9.6,2.87,AGTCAA,13,"2 ng ligated DNA, BS + DNA protect buffer, 37C 16 hrs, method B"
+B10,"30C 16 hrs, method B",8.7,9.28,2.57,AGTTCC,14,"2 ng ligated DNA, BS + DNA protect buffer, 30C 16 hrs, method B"
+B11,"25C 16 hrs, method B",15.6,8.38,1.99,ATGTCA,15,"2 ng ligated DNA, BS + DNA protect buffer, 25C 16 hrs, method B"
